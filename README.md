@@ -81,16 +81,16 @@ Este projeto propõe a criação de um evento com formato de meetup colaborativo
 
 | Tarefa | Responsável | Prazo | Estado |
 |--------|-------------|--------|--------|
-| Definição de data/local | Coordenação | [Data](a definir) | ☐ |
-| Confirmação dos speakers | Coordenação | [Data](a definir) | ☐ |
-| Conteúdo das apresentações | Clientes | [Data](a definir) | ☐ |
-| Materiais e identidade visual | Comunicação | [Data](a definir) | ☐ |
-| Convites e divulgação | Coordenação | [Data](a definir) | ☐ |
-| Logística do local | VTEX | [Data](a definir) | ☐ |
-| Coffee break | VTEX | [Data](a definir) | ☐ |
-| Moderação e painel | Coordenação | [Data](a definir) | ☐ |
-| Recolha de materiais | Coordenação | [Data](a definir) | ☐ |
-| Formulário de feedback | Coordenação | [Data](a definir) | ☐ |
+| Definição de data/local | Coordenação | [Data]-(a definir) | ☐ |
+| Confirmação dos speakers | Coordenação | [Data]-(a definir) | ☐ |
+| Conteúdo das apresentações | Clientes | [Data]-(a definir) | ☐ |
+| Materiais e identidade visual | Comunicação | [Data]-(a definir) | ☐ |
+| Convites e divulgação | Coordenação | [Data]-(a definir) | ☐ |
+| Logística do local | VTEX | [Data]-(a definir) | ☐ |
+| Coffee break | VTEX | [Data]-(a definir) | ☐ |
+| Moderação e painel | Coordenação | [Data]-(a definir) | ☐ |
+| Recolha de materiais | Coordenação | [Data]-(a definir) | ☐ |
+| Formulário de feedback | Coordenação | [Data]-(a definir) | ☐ |
 
 ## 12. Considerações Finais
 Este evento pretende consolidar-se como um ponto de encontro regular da comunidade VTEX, criando valor real para os participantes através de partilhas práticas, troca de experiências e colaboração ativa. A proposta visa alinhar-se com os princípios de inovação aberta e co-criação, fundamentais num cenário de transformação digital contínua.
