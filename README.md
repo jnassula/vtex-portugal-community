@@ -58,17 +58,17 @@ Este projeto propõe a criação de um evento com formato de meetup colaborativo
 **Modelo de Organização Responsável:**
 - Organização: [Selecionar entre: Equipa VTEX / Cliente / Parceiro (Se necessário)
 
-### Composição da Equipa Organizadora (Sugestão Base):
+**Composição da Equipa Organizadora (Sugestão Base):**
 
-| Cargo/Função | Nº de Pessoas | Responsabilidades |
-| ------------- | ------------ | ----------------- |
-| Coordenador Geral | 1 | Supervisão estratégica e decisões finais|
-| Gestor de Conteúdo/Curadoria | 1 a 2 | Seleção dos temas, oradores e revisão das apresentações |
-| Responsável de Comunicação e Marketing | 1 a 2 | Criação de materiais, divulgação, convites e landing page |
-| Responsável de Logística | 1 a 2 | Espaço, equipamentos, coffee break, apoio técnico |
-| Responsável de Comunicação e Marketing | 1 | Criação de materiais, divulgação, convites e landing page |
-| Moderador / Facilitador | 1 | Condução do evento e painel de discussão |
-| Equipa de Apoio Operacional | 2 a 3 | Apoio durante o evento (receção, registo, suporte aos oradores) |
+| Cargo/Função                   | Nº de Pessoas | Responsabilidades                                                |
+|-------------------------------|----------------|------------------------------------------------------------------|
+| Coordenador Geral             | 1              | Supervisão estratégica e decisões finais                         |
+| Gestor de Conteúdo/Curadoria | 1 a 2          | Seleção dos temas, oradores e revisão das apresentações          |
+| Responsável de Comunicação   | 1              | Criação de materiais, divulgação, convites e landing page        |
+| Responsável de Logística      | 1 a 2          | Espaço, equipamentos, coffee break, apoio técnico                |
+| Moderador / Facilitador       | 1              | Condução do evento e painel de discussão                         |
+| Equipa de Apoio Operacional   | 2 a 3          | Apoio durante o evento (receção, registo, suporte aos oradores) |
+
 
 **Total estimado de elementos: 4 a 7 pessoas**
 **Nota:** O número de elementos pode variar consoante o formato (presencial, híbrido ou online) e a dimensão do evento.
