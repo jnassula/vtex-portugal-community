@@ -56,7 +56,7 @@ Este projeto propõe a criação de um evento com formato de meetup colaborativo
 
 ## 10. Organização do Evento
 **Modelo de Organização Responsável:**
-- Tipo: [Selecionar entre: Equipa VTEX / Parceiro Local / Cliente Anfitrião / Comitê Colaborativo]
+- Organização: [Selecionar entre: Equipa VTEX / Cliente / Parceiro (Se necessário)
 
 ### Composição da Equipa Organizadora (Sugestão Base):
 
