@@ -71,6 +71,7 @@ Este projeto propõe a criação de um evento com formato de meetup colaborativo
 
 
 **Total estimado de elementos: 4 a 7 pessoas**
+
 **Nota:** O número de elementos pode variar consoante o formato (presencial, híbrido ou online) e a dimensão do evento.
 
 ## 11. Checklist de Planeamento
