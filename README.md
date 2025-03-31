@@ -1,11 +1,11 @@
 ![vtex](https://nossafarmacia.vtexassets.com/assets/vtex.file-manager-graphql/images/8531c76c-140c-48e0-b07c-49db50760c36___f3ba1e5e59eb29754597290f0c09eb10.png)
 
-# Documento de Planeamento do Projeto: Evento Comunidade VTEX
+# Documento de Planejamento do Projeto: Comunidade VTEX
 
 ## 1. Título do Projeto
-**Evento Comunidade VTEX** – Fortalecimento do Ecossistema através da Partilha de Conhecimento
+**Comunidade VTEX** – Fortalecimento do Ecossistema através da Partilha de Conhecimento
 
-## 2. Frase Motivacional
+## 2. Motivação
 **"Quando partilhamos conhecimento, multiplicamos soluções e fortalecemos o ecossistema."**
 
 ## 3. Contextualização
@@ -22,20 +22,21 @@ Este projeto propõe a criação de um evento com formato de meetup colaborativo
 
 ## 5. Público-Alvo
 - Clientes VTEX (equipas de e-commerce, TI, marketing digital e produto);
-- Parceiros tecnológicos e integradores da plataforma;
 - Gestores de projeto e responsáveis pela transformação digital.
+- Parceiros tecnológicos e integradores da plataforma (**não é o foco principal**);
 
 ## 6. Formato do Evento
 - **Periodicidade:** Trimestral (com possibilidade de ajuste conforme adesão);
-- **Duração:** 3 horas (aproximadamente);
-- **Formato:** Presencial ou híbrido (com gravação e transmissão online);
-- **Local:** Espaço colaborativo (coworking, hub de inovação ou sede de um cliente/parceiro).
+- **Duração:** 2 horas (aproximadamente);
+- **Formato:** Presencial (híbrido somente se necessário);
+- **Local:** Espaço colaborativo (coworking, hub de inovação ou sede de um cliente).
 
 ### Agenda Base
 1. Abertura institucional (15 min);
-2. Pitches de apresentação (4 a 5 apresentações de 20 min cada);
-3. Painel de discussão (30 min);
-4. Networking + coffee break (30 min).
+2. Momento VTEX (15 min);
+3. Pitches de apresentação (1 a 2 apresentações de 20 min cada);
+4. Painel de discussão (30 min);
+5. Networking + coffee break (30 min).
 
 ## 7. Critérios para Participação como Apresentador
 - Ser cliente VTEX com solução implementada e operacional;
@@ -74,22 +75,22 @@ Este projeto propõe a criação de um evento com formato de meetup colaborativo
 
 **Total estimado de elementos: 4 a 7 pessoas**
 
-**Nota:** O número de elementos pode variar consoante o formato (presencial, híbrido ou online) e a dimensão do evento.
+**Nota:** O número de elementos pode variar consoante o formato (presencial, híbrido ou online) e cada elemento pode ter uma ou mais funções.
 
 ## 11. Checklist de Planeamento
 
 | Tarefa | Responsável | Prazo | Estado |
 |--------|-------------|--------|--------|
-| Definição de data/local | Coordenação | [Data] | ☐ |
-| Confirmação dos speakers | Coordenação | [Data] | ☐ |
-| Conteúdo das apresentações | Clientes | [Data] | ☐ |
-| Materiais e identidade visual | Comunicação | [Data] | ☐ |
-| Convites e divulgação | Coordenação | [Data] | ☐ |
-| Logística do local | VTEX | [Data] | ☐ |
-| Coffee break | VTEX | [Data] | ☐ |
-| Moderação e painel | Coordenação | [Data] | ☐ |
-| Recolha de materiais | Coordenação | [Data] | ☐ |
-| Formulário de feedback | Coordenação | [Data] | ☐ |
+| Definição de data/local | Coordenação | [Data](a definir) | ☐ |
+| Confirmação dos speakers | Coordenação | [Data](a definir) | ☐ |
+| Conteúdo das apresentações | Clientes | [Data](a definir) | ☐ |
+| Materiais e identidade visual | Comunicação | [Data](a definir) | ☐ |
+| Convites e divulgação | Coordenação | [Data](a definir) | ☐ |
+| Logística do local | VTEX | [Data](a definir) | ☐ |
+| Coffee break | VTEX | [Data](a definir) | ☐ |
+| Moderação e painel | Coordenação | [Data](a definir) | ☐ |
+| Recolha de materiais | Coordenação | [Data](a definir) | ☐ |
+| Formulário de feedback | Coordenação | [Data](a definir) | ☐ |
 
 ## 12. Considerações Finais
 Este evento pretende consolidar-se como um ponto de encontro regular da comunidade VTEX, criando valor real para os participantes através de partilhas práticas, troca de experiências e colaboração ativa. A proposta visa alinhar-se com os princípios de inovação aberta e co-criação, fundamentais num cenário de transformação digital contínua.
