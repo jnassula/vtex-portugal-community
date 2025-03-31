@@ -1,3 +1,5 @@
+![vtex](https://nossafarmacia.vtexassets.com/assets/vtex.file-manager-graphql/images/8531c76c-140c-48e0-b07c-49db50760c36___f3ba1e5e59eb29754597290f0c09eb10.png)
+
 # Documento de Planeamento do Projeto: Evento Comunidade VTEX
 
 ## 1. Título do Projeto
