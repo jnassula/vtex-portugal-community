@@ -59,8 +59,9 @@ Este projeto propõe a criação de um evento com formato de meetup colaborativo
 - Tipo: [Selecionar entre: Equipa VTEX / Parceiro Local / Cliente Anfitrião / Comitê Colaborativo]
 
 ### Composição da Equipa Organizadora (Sugestão Base):
+
 | Cargo/Função | Nº de Pessoas | Responsabilidades |
-|--------------|---------------|-------------------|
+| ------------- | ------------ | ----------------- |
 | Coordenador Geral | 1 | Supervisão estratégica e decisões finais|
 | Gestor de Conteúdo/Curadoria | 1 a 2 | Seleção dos temas, oradores e revisão das apresentações |
 | Responsável de Comunicação e Marketing | 1 a 2 | Criação de materiais, divulgação, convites e landing page |
@@ -70,7 +71,6 @@ Este projeto propõe a criação de um evento com formato de meetup colaborativo
 | Equipa de Apoio Operacional | 2 a 3 | Apoio durante o evento (receção, registo, suporte aos oradores) |
 
 **Total estimado de elementos: 4 a 7 pessoas**
-
 **Nota:** O número de elementos pode variar consoante o formato (presencial, híbrido ou online) e a dimensão do evento.
 
 ## 11. Checklist de Planeamento
